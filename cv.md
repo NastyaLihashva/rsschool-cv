@@ -3,7 +3,7 @@
 * Location: Russia, St Petersburg
 * Email: adlikhashva@mail.ru
 * Github: NastyaLihashva
-* Discord: sheocryaa
+* Discord: sheocrya
 
 ## About me
 I am a novice frontend developer. I have been studying various programming languages for 3 years. I would like to start my work in frontend development, as I have always been interested in creating websites and user interfaces. At the moment I am getting a higher education at SPBSETU "LETI" in the direction of "applied mathematics and computer science. I have no work experience, because I spent most of my time studying. However, they have a great desire to develop and study in the field of frontend development.
